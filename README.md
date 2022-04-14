@@ -4,6 +4,11 @@
 - 🌱 Estudando Kotlin
 - 😄 Pronouns: Ele/Dele
 
+
+
+- Sabendo da importância dos aplicativos que hoje nos ajudam a resolver pequenos e grandes problemas do nosso dia a dia, além de nos conectarmos com pessoas, culturas e todas as milhares de possibilidades proporcionadas pela tecnologia na palma de nossas mãos, me apaixonei pela ideia de ter o desenvolvimento móvel como profissão. Então, desde então, todos os dias eu estudo Kotlin, a linguagem mais importante para o desenvolvimento nativo do Android, e me mantenho a par de todos os assuntos e tecnologias relacionadas.
+
+
 <div style="display: inline_block"><br>
      <a href="https://github.com/AlfredoSobrinho">
      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlfredoSobrinho&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true"/>
