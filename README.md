@@ -1,4 +1,4 @@
-## Olá! Eu sou a Alfredo Sobrinho 👋
+## Olá! Eu sou o Alfredo Sobrinho 👋
 
 
 - 🌱 Estudando Kotlin
