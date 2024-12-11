@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alfredo Sobrinho 👋
 
 
-- 🌱 Estudando Kotlin
+- 🌱 Estudando cyber security
 - 👨‍🚀 Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
