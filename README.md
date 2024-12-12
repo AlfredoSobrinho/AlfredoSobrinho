@@ -7,7 +7,7 @@
 
 
 
-- Sabendo da importância dos aplicativos que hoje nos ajudam a resolver pequenos e grandes problemas do nosso dia a dia, além de nos conectarmos com pessoas, culturas e todas as milhares de possibilidades proporcionadas pela tecnologia na palma de nossas mãos, me apaixonei pela ideia de ter o desenvolvimento móvel como profissão. Então, desde então, todos os dias eu estudo Kotlin, a linguagem mais importante para o desenvolvimento nativo do Android, e me mantenho a par de todos os assuntos e tecnologias relacionadas.
+- Reconhecendo a importância crucial da segurança digital nos dias de hoje, me apaixonei pela ideia de proteger dados e sistemas contra ameaças cibernéticas. Desde então, tenho dedicado meu tempo ao estudo aprofundado de cibersegurança, acompanhando as últimas tendências e tecnologias no campo. Diariamente, me mantenho atualizado sobre vulnerabilidades, métodos de defesa e práticas de segurança, com o objetivo de contribuir para um ambiente digital mais seguro e confiável.
 
 
 <div style="display: inline_block"><br>
